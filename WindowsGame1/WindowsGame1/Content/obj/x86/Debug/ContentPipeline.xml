@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2017-06-11T17:55:27.113749+03:00</Time>
+    </Item>
+    <Item>
+      <Source>space.png</Source>
+      <Name>space</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\space.xnb</Output>
+      <Time>2017-06-11T17:55:27.1605491+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\block.png</Source>
+      <Name>Textures\block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Textures\block.xnb</Output>
+      <Time>2017-06-11T17:55:27.2073492+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\block2.png</Source>
+      <Name>Textures\block2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Textures\block2.xnb</Output>
+      <Time>2017-06-11T17:55:27.2229492+03:00</Time>
+    </Item>
+    <Item>
+      <Source>menuFont.spritefont</Source>
+      <Name>menuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\menuFont.xnb</Output>
+      <Time>2017-06-11T18:52:52.3004663+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-06-11T16:51:13.9208854+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

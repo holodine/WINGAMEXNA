@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame1", "WindowsGame1\WindowsGame1.csproj", "{678F65A9-7F44-4954-9502-6E03B656E5E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{678F65A9-7F44-4954-9502-6E03B656E5E8}.Debug|x86.ActiveCfg = Debug|x86
+		{678F65A9-7F44-4954-9502-6E03B656E5E8}.Debug|x86.Build.0 = Debug|x86
+		{678F65A9-7F44-4954-9502-6E03B656E5E8}.Release|x86.ActiveCfg = Release|x86
+		{678F65A9-7F44-4954-9502-6E03B656E5E8}.Release|x86.Build.0 = Release|x86
+		{0DBE0AF7-F640-4EF9-AF4F-573437AB5103}.Debug|x86.ActiveCfg = Debug|x86
+		{0DBE0AF7-F640-4EF9-AF4F-573437AB5103}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

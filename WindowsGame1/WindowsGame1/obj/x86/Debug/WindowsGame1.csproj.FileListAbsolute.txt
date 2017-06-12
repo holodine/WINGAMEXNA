@@ -1,0 +1,36 @@
+C:\XNA_3.1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\XNA_3.1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\XNA_3.1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\XNA_3.1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\XNA_3.1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\XNA_3.1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\XNA_3.1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\player.xnb
+C:\XNA_3.1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Wave Bank.xwb
+C:\XNA_3.1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\test.xgs
+C:\XNA_3.1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sound Bank.xsb
+C:\XNA_3.1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\space.xnb
+C:\XNA_3.1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Textures\block2.xnb
+C:\XNA_3.1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Textures\block.xnb
+C:\XNA_3.1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\menuFont.spritefont
+C:\XNA_3.1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Levels\level2.txt
+C:\XNA_3.1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Levels\level1.txt
+C:\XNA_3.1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Levels\level3.txt
+C:\XNA_3.1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\menuFont.xnb
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Textures\block2.xnb
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\test.xgs
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\space.xnb
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Textures\block.xnb
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\menuFont.xnb
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\player.xnb
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Levels\level2.txt
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\menuFont.spritefont
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Levels\level1.txt
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Levels\level3.txt
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb

@@ -1,0 +1,4 @@
+C:\XNA_3.1\WindowsGame1\WindowsGame1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\XNA_3.1\WindowsGame1\WindowsGame1\Content\obj\x86\Debug\test.xml
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\WINGAMEXNA-master\WINGAMEXNA-master\WindowsGame1\WindowsGame1\Content\obj\x86\Debug\test.xml
